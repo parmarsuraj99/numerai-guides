@@ -1,0 +1,1 @@
+# Repository for of my guides for Numer.ai tournament
