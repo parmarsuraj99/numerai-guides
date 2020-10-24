@@ -1,1 +1,1 @@
-Files for may talk on intro to Python and ML
+# Files for my talk on intro to Python and ML
