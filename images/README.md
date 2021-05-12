@@ -1,0 +1,1 @@
+Images hosted for blogs!
